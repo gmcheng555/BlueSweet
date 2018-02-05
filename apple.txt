@@ -1,0 +1,6 @@
+Apple
+
+color: red
+taste: sweet or sour
+weight: 20-50g
+
