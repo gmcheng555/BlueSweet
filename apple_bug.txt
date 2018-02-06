@@ -1,0 +1,8 @@
+Apple
+
+color: green
+taste: sour
+weight: 10-20g
+size: mid
+
+bug type: worm
