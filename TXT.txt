@@ -1,0 +1,2 @@
+series					string, chain, program, serial	
+serious					consequential, important, earnest, sincere, wholehearted		
